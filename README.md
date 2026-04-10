@@ -109,7 +109,7 @@ jupyter notebook
 
 ## 🙌 Acknowledgements
 
-* UCI Machine Learning Repository
+* UCI Machine Learning Repository.
 * Kaggle community
 
 ---
